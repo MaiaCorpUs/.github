@@ -9,15 +9,12 @@ We at MaiaCorp use AI to assist businesses with data analysis through predictive
 Our work spans several key areas, including:
 
 ### [Development and Deployment](https://maiacorp.us/services/)
-![Development and Deployment](https://maiacorp.us/wp-content/uploads/2023/04/cropped-maia-e1682052261673.png)
 We help businesses discover the potential of artificial intelligence, guiding them through the process of developing and implementing advanced AI solutions.
 
 ### [Machine Learning and Data Analysis](https://maiacorp.us/data-science/)
-![Machine Learning and Data Analysis](https://maiacorp.us/wp-content/uploads/2023/04/cropped-maia-e1682052261673.png)
 We harness the power of machine learning and data analysis to transform business operations.
 
 ### [Natural Language Processing](https://maiacorp.us/artificial-intelligence/)
-![Natural Language Processing](https://maiacorp.us/wp-content/uploads/2023/04/cropped-maia-e1682052261673.png)
 We elevate business communication with our advanced Natural Language Processing (NLP) solutions.
 
 Please note that you'll need to replace "URL_to_*_Image" with the actual URLs of the images you wish to include.
